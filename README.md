@@ -1,3 +1,3 @@
 # Simplon
-Plugin descritption formation Insa
+Plugin description formation Insa
 Ajout readme.md
